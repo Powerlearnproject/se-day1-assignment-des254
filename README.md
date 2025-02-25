@@ -12,7 +12,6 @@ Software Engineering Day1 Assignment
           -Scalability and flexibility. It ensures that the system can handle an increased load without affecting performance.
           -Security. Implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in              the evolution of software engineering.
 
-
 2. Identify and describe at least three key milestones in the evolution of software engineering.
     -Mastering complexity
     -Mastering process
